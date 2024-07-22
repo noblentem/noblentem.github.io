@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://noblentem.github.io/sitemap
+Sitemap: https://noblentem.github.io/app/sitemap
+Sitemap: https://noblentem.github.io/assets/sitemap
+Sitemap: https://noblentem.github.io/css/sitemap
+Sitemap: https://noblentem.github.io/includes/sitemap
+Sitemap: https://noblentem.github.io/item/sitemap
+Sitemap: https://noblentem.github.io/src/sitemap
